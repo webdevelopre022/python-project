@@ -1,5 +1,8 @@
-import random
+#YouTube channel 5starcoder
+#subscribe my channel 
+#project_02
 
+import random
 # List of choices
 choices = ['Rock', 'Paper', 'Scissors']
 
