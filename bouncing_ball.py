@@ -1,5 +1,7 @@
-#5 star coder youtube channel
-#subscribe now!
+#YouTube channel 5starcoder
+#subscribe my channel 
+#project_01
+
 import sys, pygame
 pygame.init()
 size = width, height = 100, 800
